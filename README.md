@@ -20,8 +20,3 @@ Hello there! Welcome to my GitHub profile. My name is Vladyslav. I'm a very fast
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackpulsar/)
 
 [![CodeWars](https://www.codewars.com/users/hackpulsar/badges/large)](https://www.codewars.com/users/hackpulsar)
-
-### 📊 GitHub Stats
-
-<img src="https://myreadme.vercel.app/api/embed/hackpulsar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
