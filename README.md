@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hackpulsar&color=brightgreen)
 
-> "If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose."
+> "The function of good software is to make the complex appear to be simple."
 
 ### 👨‍💻 Applied Computer Science Student | 🌱 C++ Enthusiast
 
