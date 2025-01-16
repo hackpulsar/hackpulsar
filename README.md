@@ -8,7 +8,7 @@
 
 ### 📚 About Me
 
-Hello there! Welcome to my GitHub profile. My name is Vladyslav. I'm a very fast-learning, adaptive and hard-working software engineer with passionate interest in coding, low level programming and problem solving in general. My main focus is on C/C++ programming languages and game development. I love to explore new technologies and work in a team on interesting projects.
+A very fast-learning, adaptive and hard-working software engineer with passionate interest in coding, low level programming and problem solving in general. My main focus is on C/C++ programming languages and game development.
 
 ### 📫 How to Reach Me
 
