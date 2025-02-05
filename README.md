@@ -8,7 +8,7 @@
 
 ### 📚 About Me
 
-A very fast-learning, adaptive and hard-working software engineer with passionate interest in coding, low level programming and problem solving in general. My main focus is on C/C++ programming languages and game development.
+Highly motivated and results-oriented C/C++ developer. Adaptive, hard working and easy learning.
 
 ### 📫 How to Reach Me
 
