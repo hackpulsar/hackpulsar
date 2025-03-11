@@ -10,6 +10,15 @@
 
 Highly motivated and results-oriented C/C++ developer. Adaptive, hard working and easy learning.
 
+### 🚀 Technologies & Tools
+- 🔵 C++ | 📝 C | 🦀 Rust
+- 🖥️ Qt | 🎮 SDL2 | 🎮 SFML 
+- ⚡ Actix Web | 🌐 REST API
+- 📚 STL | 🚀 Boost | ⚡ Boost.Asio | 🔌 cURLpp | 🖥️ OpenGL | 🎨 Dear ImGui | 🧪 Catch2 | 🎮 raylib
+- 🐘 PostgreSQL | 🔴 Redis | 🗄️ MS SQL
+- 🛠️ Git | GitHub | 🏗️ CMake
+- 🐳 Docker
+
 ### 📫 How to Reach Me
 
 - 📧 Email: [kobylnyk.vladyslav@gmail.com](mailto:kobylnyk.vladyslav@gmail.com)
@@ -17,6 +26,5 @@ Highly motivated and results-oriented C/C++ developer. Adaptive, hard working an
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-kobylnyk/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackpulsar/)
 
 [![CodeWars](https://www.codewars.com/users/hackpulsar/badges/large)](https://www.codewars.com/users/hackpulsar)
