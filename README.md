@@ -11,13 +11,15 @@
 Highly motivated and results-oriented C/C++ developer. Adaptive, hard working and easy learning.
 
 ### 🚀 Technologies & Tools
-- 🔵 C++ | 📝 C | 🦀 Rust
-- 🖥️ Qt | 🎮 SDL2 | 🎮 SFML 
+- 🔵 C++ | 📝 C | 🦀 Rust | 🐍 Python
+- 🖥️ Qt | 🪟 MFC | 🎮 SDL2 | 🎮 SFML
 - ⚡ Actix Web | 🌐 REST API
-- 📚 STL | 🚀 Boost | ⚡ Boost.Asio | 🔌 cURLpp | 🖥️ OpenGL | 🎨 Dear ImGui | 🧪 Catch2 | 🎮 raylib
+- 📚 STL | 🚀 Boost | ⚡ Boost.Asio | 🔌 cURLpp
+- 🖥️ OpenGL | 🎨 Dear ImGui | 🎮 raylib
+- 🧪 Catch2 | 🧪 Google Test
 - 🐘 PostgreSQL | 🔴 Redis | 🗄️ MS SQL
-- 🛠️ Git | GitHub | 🏗️ CMake
-- 🐳 Docker
+- 🛠️ Git | GitLab | 🏗️ CMake | 🔄 SVN
+- 🐳 Docker | ⚙️ Jenkins | 🏎️ Kraken
 
 ### 📫 How to Reach Me
 
