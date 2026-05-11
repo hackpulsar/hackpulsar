@@ -7,7 +7,7 @@
 ### 👨‍💻 Software Engineer
 
 ### 🚀 Technologies & Tools
-- 🐹 Go | ⚙️ C++ | 🐍 Python | 🦀 Rust
+- 🐹 Go | ⚙️ C++ | 🦀 Rust | 🐍 Python
 - 🖥️ Qt | ⚡ Actix Web
 - 📚 STL | 🚀 Boost | ⚡ Boost.Asio | 🔌 cURLpp
 - 🖥️ OpenGL | 🎨 Dear ImGui | 🎮 raylib
