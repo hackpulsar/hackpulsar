@@ -2,31 +2,23 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hackpulsar&color=brightgreen)
 
-> "The function of good software is to make the complex appear to be simple."
+> "Software is a great combination between artistry and engineering."
 
-### 👨‍💻 Applied Computer Science Student | 🌱 C++ Enthusiast
-
-### 📚 About Me
-
-Highly motivated and results-oriented C/C++ developer. Adaptive, hard working and easy learning.
+### 👨‍💻 Software Engineer
 
 ### 🚀 Technologies & Tools
-- 🔵 C++ | 📝 C | 🦀 Rust | 🐍 Python
-- 🖥️ Qt | 🪟 MFC | 🎮 SDL2 | 🎮 SFML
-- ⚡ Actix Web | 🌐 REST API
+- 🐹 Go | ⚙️ C++ | 🐍 Python | 🦀 Rust
+- 🖥️ Qt | ⚡ Actix Web
 - 📚 STL | 🚀 Boost | ⚡ Boost.Asio | 🔌 cURLpp
 - 🖥️ OpenGL | 🎨 Dear ImGui | 🎮 raylib
-- 🧪 Catch2 | 🧪 Google Test
-- 🐘 PostgreSQL | 🔴 Redis | 🗄️ MS SQL
-- 🛠️ Git | GitLab | 🏗️ CMake | 🔄 SVN
-- 🐳 Docker | ⚙️ Jenkins | 🏎️ Kraken
+- 🧪 Google Test | 🧪 Catch2
+- 🐘 PostgreSQL | 🔴 Redis
+- ☁️ AWS
+- 🛠️ Git | 📦 GitLab | 🏗️ CMake | 🔄 SVN
+- 🐳 Docker | ⚙️ Jenkins
 
 ### 📫 How to Reach Me
-
 - 📧 Email: [kobylnyk.vladyslav@gmail.com](mailto:kobylnyk.vladyslav@gmail.com)
 
 ### 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-kobylnyk/)
-
-[![CodeWars](https://www.codewars.com/users/hackpulsar/badges/large)](https://www.codewars.com/users/hackpulsar)
